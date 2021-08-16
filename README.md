@@ -1,2 +1,0 @@
-# simpel-host
-best
